@@ -1,18 +1,32 @@
 # Degree
-- degree: Master of Science, Computer Software Engineering
-  uni: San Jose State University 
-  year: Jan, 2022 &mdash; Dec, 2023 
+- degree: "Master of Science, Computer Software Engineering"
+  uni: "San Jose State University"
+  year: "Jan, 2022 – Dec, 2023"
   description: |
-      <p><strong>Coursework:</strong></p>
-        <ul class="resume-item-list">
-          Enterprise Software Platforms, Data Mining, Network Security and Applications, Software Systems Engineering, Software Security Technologies, Software Quality Assurance and Testing, Business Intelligence Technologies, Web UI Design and Development.
-        </ul>
+    <p><strong>Coursework:</strong></p>
+    <ul class="resume-item-list">
+      <li>Enterprise Software Platforms</li>
+      <li>Data Mining</li>
+      <li>Network Security and Applications</li>
+      <li>Software Systems Engineering</li>
+      <li>Software Security Technologies</li>
+      <li>Software Quality Assurance and Testing</li>
+      <li>Business Intelligence Technologies</li>
+      <li>Web UI Design and Development</li>
+    </ul>
 
-- degree: Bachelor of Engineering in Computer Science Engineering 
-  uni: K L University
-  year: Jul, 2017 &mdash; Jun, 2021
+- degree: "Bachelor of Engineering in Computer Science Engineering"
+  uni: "K L University"
+  year: "Jul, 2017 – Jun, 2021"
   description: |
-      <p><strong>Coursework:</strong></p>
-        <ul class="resume-item-list">
-          Object Oriented Programming, Data Science, Database Management Systems, Artificial Intelligence, Software Engineering, Data Structures, Design Patterns, Computer Networks.
-        </ul>
+    <p><strong>Coursework:</strong></p>
+    <ul class="resume-item-list">
+      <li>Object Oriented Programming</li>
+      <li>Data Science</li>
+      <li>Database Management Systems</li>
+      <li>Artificial Intelligence</li>
+      <li>Software Engineering</li>
+      <li>Data Structures</li>
+      <li>Design Patterns</li>
+      <li>Computer Networks</li>
+    </ul>
