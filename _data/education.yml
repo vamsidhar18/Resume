@@ -3,12 +3,14 @@
   uni: San Jose State University 
   year: Jan, 2022 &mdash; Dec, 2023 
   description: |
-    <p><strong>Coursework:</strong></p>
-       Enterprise Software Platforms, Data Mining, Network Security and Applications, Software Systems Engineering, Software Security Technologies, Software Quality Assurance and Testing, Business Intelligence Technologies, Web UI Design and Development.
+    <ul class="resume-item-list">
+      <p><strong>Coursework:</strong></p>
+        Enterprise Software Platforms, Data Mining, Network Security and Applications, Software Systems Engineering, Software Security Technologies, Software Quality Assurance and Testing, Business Intelligence Technologies, Web UI Design and Development.
 
 - degree: Bachelor of Engineering in Computer Science Engineering 
   uni: K L University
   year: Jul, 2017 &mdash; Jun, 2021
   description: |
-   <p><strong>Coursework:</strong></p>
-     Object Oriented Programming, Data Science, Database Management Systems, Artificial Intelligence, Software Engineering, Data Structures, Design Patterns, Computer Networks.
+    <ul class="resume-item-list">
+      <p><strong>Coursework:</strong></p>
+        Object Oriented Programming, Data Science, Database Management Systems, Artificial Intelligence, Software Engineering, Data Structures, Design Patterns, Computer Networks.
