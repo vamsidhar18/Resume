@@ -1,6 +1,7 @@
 # Skills
 
 - skill: Organizational leadership
+- url: "#"
   description: |
     <ul class="resume-item-list">
       <li><strong>Leadership Roles and Impact:</strong></li>
@@ -19,6 +20,7 @@
     </ul>
 
 - skill: Communications strategy
+- url: "#"
   description: |
     <ul class="resume-item-list">
       <li><strong>Strategic Communication Initiatives:</strong></li>

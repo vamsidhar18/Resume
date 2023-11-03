@@ -143,14 +143,12 @@
         </header>
         {% for highlight in site.data.Professional_Highlights %}
         <div class="resume-item">
-          <h4 class="resume-item-details">{{ highlight.skill }}</h4>
-          <p class="resume-item-copy">{{ highlight.description }}</p>
+          <h4 class="resume-item-details" itemprop="description">{{ Professional_Highlights.role }} &bull; {{ Professional_Highlights.year }}</h4>
+          <p class="resume-item-copy">{{ Professional_Highlights.description }}</p>
         </div>
         {% endfor %}
       </section>
-
-      </section>
-      <!-- end Professional Highlights -->
+      <!-- end Professional_Highlights -->
       {% endif %}
 
       {% if site.resume_section_associations %}
