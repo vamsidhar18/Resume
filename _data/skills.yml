@@ -1,12 +1,27 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Languages & Technologies
+  description: Python, Java, JavaScript, HTML, CSS, Spring Boot, Search Engines, Data Science, AI, ML, Ruby, AI, ML, C, Operating Systems, React, Version Control, Application Servers, R, React, Version Control, Application Servers, Oracle.
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Tools & Frameworks
+  description: Android, NodeJS, Pandas, NumPy, Scikit-Learn, TensorFlow, Git, Azure Machine Learning, Prompt flow, Elasticsearch, GPT-3, BERT, OPENAI, SCOR Model, Lean Supply Chain, Agile Supply Chain, JIT.
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Databases, Containerization & DevOps
+  description: MySQL, Amazon DynamoDB, Amazon Aurora, Oracle, PostgreSQL, Docker, Kubernetes.
+
+# Digital content development and creation
+- skill: Scripting & Operating System
+  description: Shell Script, Unix Shell, Unix, Linux, CI/CD, Terraform, Jenkins.
+
+# Digital content development and creation
+- skill: Cloud Services& Networking
+  description: AWS, Azure, Google Cloud, Amazon VPC, Azure Virtual Network, Amazon S3, Amazon lambda, Amazon EKS.
+
+
+# Digital content development and creation
+- skill:   Soft Skills & Other Skills
+  description: Strong analytical abilities, problem-solving, collaboration, communication, resilience, emotional intelligence, Sustainability initiatives, demand planning, inventory management, and quality control processes..
+
+
