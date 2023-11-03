@@ -4,30 +4,32 @@
 - url: "#"
   description: |
     <ul class="resume-item-list">
-      <li><strong><h4 class="subheading">Leadership Roles and Impact:</h4></strong></li>
-      <li>As the Head of SAMYAK, a National Level Techno-Management Fest, I led a team to orchestrate a highly successful event, which saw an increase in participant engagement and sponsorship.</li>
-      <li>In the capacity of Senator for the Undergraduate Student Organization, I effectively represented the interests of 600 students, advocating for their needs and organizing events that enriched the campus community.</li>
+      <li><strong>Leadership Roles and Impact:</strong></li>
+      bullets:
+          <li>As the Head of SAMYAK, a National Level Techno-Management Fest, I led a team to orchestrate a highly successful event, which saw an increase in participant engagement and sponsorship.</li>
+          <li>In the capacity of Senator for the Undergraduate Student Organization, I effectively represented the interests of 600 students, advocating for their needs and organizing events that enriched the campus community.</li>
       
-      <li><strong>Leadership Skills Demonstrated:</strong></li>
-      <li>Strategic Planning & Execution</li>
-      <li>Team Building & Mentorship</li>
-      <li>Event Coordination & Management</li>
-      <li>Public Speaking & Stakeholder Engagement</li>
+          <li><strong>Leadership Skills Demonstrated:</strong></li>
+          <li>Strategic Planning & Execution</li>
+          <li>Team Building & Mentorship</li>
+          <li>Event Coordination & Management</li>
+          <li>Public Speaking & Stakeholder Engagement</li>
       
-      <li><strong>Key Achievements:</strong></li>
-      <li>Spearheaded initiatives that resulted in the streamlining of operations and enhancement of community engagement.</li>
-      <li>Developed mentoring programs that contributed to the professional growth of team members and fostered a culture of continuous learning.</li>
+          <li><strong>Key Achievements:</strong></li>
+          <li>Spearheaded initiatives that resulted in the streamlining of operations and enhancement of community engagement.</li>
+          <li>Developed mentoring programs that contributed to the professional growth of team members and fostered a culture of continuous learning.</li>
     </ul>
 
-- skill: Communications strategy
+- skill: Communications Strategy
 - url: "#"
   description: |
     <ul class="resume-item-list">
-      <li><strong><h4 class="subheading">Strategic Communication Initiatives:</h4></strong></li>
-      <li>At SpiderG, I devised a communication strategy that improved the accuracy of client UI designs by 20%, bolstering client satisfaction and trust.</li>
-      <li>Led a team in the development of digital content for web applications, focusing on innovative strategies to enhance business operations and customer interaction.</li>
+      <li><strong>Strategic Communication Initiatives:</strong></li>
+      bullets:
+          <li>At SpiderG, I devised a communication strategy that improved the accuracy of client UI designs by 20%, bolstering client satisfaction and trust.</li>
+          <li>Led a team in the development of digital content for web applications, focusing on innovative strategies to enhance business operations and customer interaction.</li>
       
-      <li><strong>Content Creation and Marketing:</strong></li>
-      <li>Crafted engaging copy and visual content that aligned with brand messaging, driving user engagement and enhancing online presence.</li>
-      <li>Utilized a blend of graphic design, web design, and print media to create a cohesive visual identity for various organizations.</li>
+          <li><strong>Content Creation and Marketing:</strong></li>
+          <li>Crafted engaging copy and visual content that aligned with brand messaging, driving user engagement and enhancing online presence.</li>
+          <li>Utilized a blend of graphic design, web design, and print media to create a cohesive visual identity for various organizations.</li>
     </ul>
