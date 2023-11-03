@@ -1,6 +1,6 @@
 # Degree
 - degree: "Master of Science, Computer Software Engineering"
-  uni: "San Jose State University" <br>
+  uni: "San Jose State University" 
   year: "Jan, 2022 – Dec, 2023"
   description: |
     <p><strong>Coursework:</strong></p>
@@ -16,7 +16,7 @@
     </ul>
 
 - degree: "Bachelor of Engineering in Computer Science Engineering"
-  uni: "K L University" <br>
+  uni: "K L University" 
   year: "Jul, 2017 – Jun, 2021"
   description: |
     <p><strong>Coursework:</strong></p>
