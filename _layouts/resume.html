@@ -145,9 +145,10 @@
          {% for highlight in site.data.Professional_Highlights %}
          <div class="resume-item">
            <h4 class="resume-item-details" itemprop="description">
-            <a href="{{ highlight.url }}">{{ highlight.skill }}</a>
+            {{ highlight.skill }}
            </h4>
-           <p class="resume-item-copy">{{ highlight.description | safe }}</p>
+           <div class="resume-item-copy">{{ highlight.description | safe }}</div>
+           
          </div>
          {% endfor %}
        </section>
