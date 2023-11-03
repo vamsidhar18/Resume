@@ -135,21 +135,25 @@
       <!-- end Skills -->
       {% endif %}
 
-      {% if site.resume_section_Professional Highlights %}
-      <!-- begin Professional_Highlights -->
-      <section class="content-section">
-        <header class="section-header">
-          <h2>Professional Highlights</h2>
-        </header>
-        {% for highlight in site.data.Professional_Highlights %}
-        <div class="resume-item">
-          <h4 class="resume-item-details" itemprop="description">{{ Professional_Highlights.role }} &bull; {{ Professional_Highlights.year }}</h4>
-          <p class="resume-item-copy">{{ Professional_Highlights.description }}</p>
-        </div>
-        {% endfor %}
-      </section>
-      <!-- end Professional_Highlights -->
-      {% endif %}
+      {% if site.resume_section_professional_highlights %}
+      <!-- begin Professional Highlights -->
+
+       <section class="content-section">
+         <header class="section-header">
+           <h2>Professional Highlights</h2>
+         </header>
+         {% for highlight in site.data.Professional_Highlights %}
+         <div class="resume-item">
+           <h4 class="resume-item-details" itemprop="description">
+            <a href="{{ highlight.url }}">{{ highlight.skill }}</a>
+           </h4>
+           <p class="resume-item-copy">{{ highlight.description | safe }}</p>
+         </div>
+         {% endfor %}
+       </section>
+       <!-- end Professional Highlights -->
+       {% endif %}
+
 
       {% if site.resume_section_associations %}
       <!-- begin Associations -->
