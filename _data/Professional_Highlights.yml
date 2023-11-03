@@ -2,30 +2,28 @@
 
 - skill: Organizational leadership
   description: |
-    <ul class="resume-item-list">
+    
       <p><strong>Leadership Roles and Impact:</strong></p>
-        <li>As the Head of SAMYAK, a National Level Techno-Management Fest, I led a team to orchestrate a highly successful event, which saw an increase in participant engagement and sponsorship.</li>
-        <li>In the capacity of Senator for the Undergraduate Student Organization, I effectively represented the interests of 600 students, advocating for their needs and organizing events that enriched the campus community.</li>
+        <ul class="resume-item-list"><li>As the Head of SAMYAK, a National Level Techno-Management Fest, I led a team to orchestrate a highly successful event, which saw an increase in participant engagement and sponsorship.</li><li>In the capacity of Senator for the Undergraduate Student Organization, I effectively represented the interests of 600 students, advocating for their needs and organizing events that enriched the campus community.</li>
       
       <p><strong>Leadership Skills Demonstrated:</strong></p>
-        <li>Strategic Planning & Execution</li>
+        <ul class="resume-item-list"><li>Strategic Planning & Execution</li>
         <li>Team Building & Mentorship</li>
         <li>Event Coordination & Management</li>
         <li>Public Speaking & Stakeholder Engagement</li>
       
       <p><strong>Key Achievements:</strong></p>
-        <li>Spearheaded initiatives that resulted in the streamlining of operations and enhancement of community engagement.</li>
-        <li>Developed mentoring programs that contributed to the professional growth of team members and fostered a culture of continuous learning.</li>
+        <ul class="resume-item-list"><li>Spearheaded initiatives that resulted in the streamlining of operations and enhancement of community engagement.</li><li>Developed mentoring programs that contributed to the professional growth of team members and fostered a culture of continuous learning.</li>
     </ul>
 
 - skill: Communications Strategy
   description: |
     <ul class="resume-item-list">
-      <p><strong>Strategic Communication Initiatives:</strong></p>
+      <ul class="resume-item-list"><p><strong>Strategic Communication Initiatives:</strong></p>
         <li>At SpiderG, I devised a communication strategy that improved the accuracy of client UI designs by 20%, bolstering client satisfaction and trust.</li>
         <li>Led a team in the development of digital content for web applications, focusing on innovative strategies to enhance business operations and customer interaction.</li>
       
-      <p><strong>Content Creation and Marketing:</strong></p>
+      <ul class="resume-item-list"><p><strong>Content Creation and Marketing:</strong></p>
         <li>Crafted engaging copy and visual content that aligned with brand messaging, driving user engagement and enhancing online presence.</li>
         <li>Utilized a blend of graphic design, web design, and print media to create a cohesive visual identity for various organizations.</li>
     </ul>
