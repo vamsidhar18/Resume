@@ -104,7 +104,23 @@
       </section>
       <!-- end Education -->
       {% endif %}
+      <!-- begin certifications -->
 
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Certifications</h2>
+        </header>
+        {% for Certifications in site.data.Certifications %}
+        <div class="resume-item">
+          <h4 class="resume-item-details" itemprop="description">
+           {{ Certifications.skill }}
+          </h4>
+          <div class="resume-item-copy">{{ Certifications.description | safe }}</div>
+          
+        </div>
+        {% endfor %}
+      </section>
+      <!-- end certifications -->
 
 
       {% if site.resume_section_projects %}
