@@ -110,12 +110,12 @@
         <header class="section-header">
           <h2>Certifications</h2>
         </header>
-        {% for Certifications in site.data.Certifications %}
+        {% for certifications in site.data.certifications %}
         <div class="resume-item">
           <h4 class="resume-item-details" itemprop="description">
-           {{ Certifications.skill }}
+           {{ certifications.skill }}
           </h4>
-          <div class="resume-item-copy">{{ Certifications.description | safe }}</div>
+          <div class="resume-item-copy">{{ certifications.description | safe }}</div>
           
         </div>
         {% endfor %}
