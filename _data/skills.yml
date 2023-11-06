@@ -1,27 +1,31 @@
 # Skills
 # Organizational leadership
-- skill: Languages & Technologies
-  description: Python, Java, JavaScript, HTML, CSS, Spring Boot, Search Engines, Data Science, AI, ML, Ruby, AI, ML, C, Operating Systems, React, Version Control, Application Servers, R, React, Version Control, Application Servers, Oracle.
+- skill: Languages & Web Development
+  description: Python, Java, C, JavaScript, HTML, CSS, React & Spring Boot, NodeJS, Ruby.
 
 # Communications strategy
-- skill: Tools & Frameworks
-  description: Android, NodeJS, Pandas, NumPy, Scikit-Learn, TensorFlow, Git, Azure Machine Learning, Prompt flow, Elasticsearch, GPT-3, BERT, OPENAI, SCOR Model, Lean Supply Chain, Agile Supply Chain, JIT.
+- skill: Data Science & Machine Learning
+  description: AI/ML development with TensorFlow, Pandas, NumPy, Scikit-Learn; NLP with GPT-3, BERT, and enhanced search capabilities with Elasticsearch.
+
+# Digital content development and creation
+- skill: Cloud & Networking
+  description: : AWS, Azure, Google Cloud, Network management with Amazon VPC, Azure Virtual Network.
+
+# Digital content development and creation
+- skill: Database Management
+  description: MySQL, DynamoDB, PostgreSQL, Oracle, and Amazon Aurora.
 
 # Digital content development and creation
 - skill: Databases, Containerization & DevOps
-  description: MySQL, Amazon DynamoDB, Amazon Aurora, Oracle, PostgreSQL, Docker, Kubernetes.
-
-# Digital content development and creation
-- skill: Scripting & Operating System
-  description: Shell Script, Unix Shell, Unix, Linux, CI/CD, Terraform, Jenkins.
-
-# Digital content development and creation
-- skill: Cloud Services& Networking
-  description: AWS, Azure, Google Cloud, Amazon VPC, Azure Virtual Network, Amazon S3, Amazon lambda, Amazon EKS.
+  description: Docker, Kubernetes, CI/CD, Jenkins, Terraform, Kafka.
 
 
 # Digital content development and creation
-- skill:   Soft Skills & Other Skills
-  description: Strong Analytical Abilities, Problem-Solving, Collaboration, Communication, Resilience, Emotional Intelligence, Sustainability Initiatives, Demand Planning, Inventory Management, and Quality Control Processes.
+- skill:   Version Control & Operating Systems
+  description: Version control with Git, Unix, Linux, and scripting with Shell/Unix Shell.
+
+# Digital content development and creation
+- skill:   Softskills &  Other Skills
+  description: Analytical Thinking, Problem-Solving, Leadership, Communication, Innovation, Teamwork, Adaptability. Other Skills; User Interface Design, Automation, DevOps Practices, Cloud Services Management, Performance Benchmarking, Regulatory Compliance, Data Processing and Scalability, Scalable System Architecture Design .
 
 
