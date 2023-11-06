@@ -105,24 +105,28 @@
       <!-- end Education -->
       {% endif %}
       <!-- begin certifications -->
-
       <section class="content-section">
         <header class="section-header">
           <h2>Certifications</h2>
         </header>
-        {% for certifications in site.data.certifications %}
+        {% for certification in site.data.certifications %}
         <div class="resume-item">
           <h4 class="resume-item-details" itemprop="description">
-           {{ certifications.skill }}
+            {{ certification.skill }}
           </h4>
-          <div class="resume-item-copy">{{ certifications.description | safe }}</div>
-          
+          <div class="resume-item-copy">
+            <ul class="resume-item-list"> 
+              <li>{{ certification.validation_number }} <a href="{{ certification.verification_url }}" target="_blank">Verify</a></li> 
+              <li>Issued: {{ certification.issue_date }} - Expiration Date: {{ certification.expiration_date }}</li> 
+            </ul>
+          </div>
         </div>
-        {% endfor %}
+         {% endfor %}
       </section>
       <!-- end certifications -->
 
 
+      {% endif %}
       {% if site.resume_section_projects %}
       <!-- begin Projects -->
       <section class="content-section">

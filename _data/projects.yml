@@ -3,20 +3,16 @@
 
 # Real-Time Sentiment Monitoring System: 
 - project: Real-Time Sentiment Monitoring System 
-  #role: Co-founder &  Developer, Cloud Engineering
   # url: "#"
   description: <ul class="resume-item-list"><li>	Developed a real-time sentiment analysis dashboard using NLP and large language models, achieving an 85% accuracy rate in sentiment classification. </li><li>	Leveraged cloud services, Docker, and Elasticsearch for scalability and efficient data processing, enhancing user experience </li><li> Investigated innovative applications of artificial intelligence within the project, focusing on predictive analytics, sustainability, and the strategic use of data to enhance the reliability and insightfulness of sentiment analysis outcomes  </li></ul>
 # Reddit Prototype
 - project:  Reddit Prototype
-  #role: Co-Founder & Cloud Engineering, Developer
   description: <ul class="resume-item-list"><li>	Deployed 3-tier distributed web application with message queues as middleware and scaled horizontally.  </li><li> Using Redis caching was able to improve the throughput of requests by 70 percent. </li><li>	Simulated most features from Reddit applications like Votes, Communities, Image demonstrating simultaneous requests from 10,000 users by adding load balancer by processing information in Redis to increase throughput by 63%. </li></ul>
 # Real-Time Sentiment Monitoring System: 
 - project: E-commerce Recommendation Engine 
-  #role: Co-founder &  Developer, Cloud Engineering
   # url: "#"
   description: <ul class="resume-item-list"><li>	Created a real-time recommendation engine using AWS services and DynamoDB, providing personalized product suggestions within 100 milliseconds for optimal user engagement and conversions. </li><li> Utilized infrastructure-as-code with CloudFormation and considered ethical implications related to user data and AI integration, demonstrating compliance, trustworthiness, sustainability, and partner relationships.  </li><li> 	Employed advanced artificial intelligence techniques to refine recommendation accuracy, incorporating data-driven strategies and evolutionary algorithms that evolved the engine to meet changing market demands, signifying a deep commitment to technological innovation in the e-commerce sector </li></ul>
   # Real-Time Sentiment Monitoring System: 
 - project: Deloitte Tax Query Chatbot 
-  #role: Co-founder &  Developer
   # url: "#"
   description: <ul class="resume-item-list"><li> Led the creation of Deloitte's innovative tax query chatbot, leveraging React for seamless user experience and Java Spring for a stable backend, resulting in a 40% improvement in tax inquiry processing efficiency. </li><li> Implemented an advanced integration of the GPT model with Deloitte’s specialized tax databases and regulatory documents, delivering a chatbot with a 95% accuracy rate in tax-related guidance, and maintaining up-to-date compliance with dynamic tax legislation.  </li><li>	Deployed the chatbot using robust cloud infrastructure to ensure worldwide availability for clients, achieving a remarkable 99% system uptime and the capacity to handle over 2,000 concurrent user inquiries without performance degradation. Conducted regular analysis of chatbot effectiveness against key performance indicators, utilizing insights to refine the system continually, thus maintaining high standards of performance and client satisfaction. </li></ul>
