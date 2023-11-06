@@ -1,11 +1,11 @@
-#certifications:
-- skill: "AWS Solution Architect Associate"
-  validation_number: "RR77287LFNF1Q5C9"
-  verification_url: "https://aws.amazon.com/verification"
-  issue_date: "Jun 13, 2022"
-  expiration_date: "Jun 13, 2025"
-  description: "This certification validates the ability to design distributed systems on AWS. It verifies an understanding of network technologies and how they relate to AWS, as well as the ability to design scalable, reliable, and cost-effective cloud environments."
+certifications:
+  - skill: "AWS Solution Architect Associate"
+    validation_number: "RR77287LFNF1Q5C9"
+    verification_url: "https://aws.amazon.com/verification"
+    issue_date: "Jun 13, 2022"
+    expiration_date: "Jun 13, 2025"
+    description: "This certification validates the ability to design distributed systems on AWS. It verifies an understanding of network technologies and how they relate to AWS, as well as the ability to design scalable, reliable, and cost-effective cloud environments."
 
-skill: "Automation Anywhere Certified Advanced RPA Professional"
-  validation_number: "AAADVC-21915340"
-  description: "A certification demonstrating advanced proficiency in Automation Anywhere's RPA platform, signifying the capability to design and build complex bots using Automation Anywhere."
+  - skill: "Automation Anywhere Certified Advanced RPA Professional"
+    validation_number: "AAADVC-21915340"
+    description: "A certification demonstrating advanced proficiency in Automation Anywhere's RPA platform, signifying the capability to design and build complex bots using Automation Anywhere."
