@@ -114,16 +114,19 @@
           <h4 class="resume-item-details" itemprop="description">
             {{ certification.skill }}
           </h4>
-          <p>{{ certification.description }}</p>
-          <p>{{ certification.validation_number }}</p>
-          <p>Issued: {{ certification.issue_date }} - Expiration Date: {{ certification.expiration_date }}</p>
-          {% if certification.verification_url %}
-          <p><a href="{{ certification.verification_url }}" target="_blank">Verify</a></p>
-          {% endif %}
-        </div>
-         {% endfor %}
+          <div class="resume-item-copy">
+            <ul class="resume-item-list"> 
+              <li>{{ certification.validation_number }} <a href="{{ certification.verification_url }}" target="_blank">Verify</a></li> 
+              {% if certification.issue_date and certification.expiration_date %}
+              <li>Issued: {{ certification.issue_date }} - Expiration Date: {{ certification.expiration_date }}</li> 
+              {% endif %}
+            </ul>
+          </div>
+       </div>
+        {% endfor %}
       </section>
       <!-- end certifications -->
+
 
 
       
