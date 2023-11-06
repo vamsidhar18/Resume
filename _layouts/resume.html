@@ -104,19 +104,30 @@
       </section>
       <!-- end Education -->
       {% endif %}
-      <!-- begin certifications test -->
+      <!-- begin certifications -->
       <section class="content-section">
         <header class="section-header">
-          <h2>Certifications Test</h2>
+          <h2>Certifications</h2>
         </header>
-        {{ site.data.certifications | inspect }} <!-- This line is for debugging purposes -->
         {% for certification in site.data.certifications %}
         <div class="resume-item">
-          <h4>{{ certification.skill }}</h4>
+          <h4 class="resume-item-details" itemprop="description">
+           {{ certification.skill }}
+          </h4>
+          <div class="resume-item-copy">
+            <p>{{ certification.description }}</p>
+            <ul class="resume-item-list">
+              <li>Validation Number: {{ certification.validation_number }}{% if certification.verification_url %} - <a href="{{ certification.verification_url }}" target="_blank">Verify</a>{% endif %}</li>
+              {% if certification.issue_date and certification.expiration_date %}
+              <li>Issued: {{ certification.issue_date }} - Expiration Date: {{ certification.expiration_date }}</li>
+              {% endif %}
+            </ul>
+          </div>
         </div>
-        {% endfor %}
+         {% endfor %}
       </section>
-      <!-- end certifications test -->
+      <!-- end certifications -->
+
 
 
 
